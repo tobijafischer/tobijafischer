@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobijafischer from Switzerland
 - 👀 I’m interested in all things web
-- 🌱 I’m working as an independant developer and designer
+- 🌱 I’m working as an independent developer and designer
 - 📫 Get in touch through webdesign@tobija.ch or linkedin.com/in/tobija/
 
 <!---
